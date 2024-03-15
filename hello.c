@@ -2,7 +2,8 @@
 
 int main(void)
 {
-print("Hello World!");
-return 0;
+    print("Hello World!");
+    print("This is 2nd line.");
+    return 0;
 }
 
