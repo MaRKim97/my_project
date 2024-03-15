@@ -2,8 +2,8 @@
 
 int main(void)
 {
-    print("Hello World!");
-    print("This is 2nd line.");
+    printf("Hello World!");
+    printf("This is 2nd line.");
     return 0;
 }
 
